@@ -1,0 +1,284 @@
+i think 60% training data, 40% testing data
+
+-- No dynamic adding of neurons
+Starting load data...
+Data loaded...
+Epoch: 0: 0 / 1599
+Epoch: 1: 613 / 1599
+Epoch: 2: 908 / 1599
+Epoch: 3: 1204 / 1599
+Epoch: 4: 1316 / 1599
+Epoch: 5: 1406 / 1599
+Epoch: 6: 1436 / 1599
+Epoch: 7: 1465 / 1599
+Epoch: 8: 1527 / 1599
+Epoch: 9: 1537 / 1599
+Epoch: 10: 1537 / 1599
+Epoch: 11: 1540 / 1599
+Epoch: 12: 1543 / 1599
+Epoch: 13: 1544 / 1599
+Epoch: 14: 1561 / 1599
+Epoch: 15: 1569 / 1599
+Epoch: 16: 1570 / 1599
+Epoch: 17: 1572 / 1599
+Epoch: 18: 1572 / 1599
+Epoch: 19: 1576 / 1599
+Epoch: 20: 1578 / 1599
+Epoch: 21: 1578 / 1599
+Epoch: 22: 1580 / 1599
+Epoch: 23: 1580 / 1599
+Epoch: 24: 1580 / 1599
+Epoch: 25: 1583 / 1599
+Epoch: 26: 1584 / 1599
+Epoch: 27: 1584 / 1599
+Epoch: 28: 1589 / 1599
+Epoch: 29: 1589 / 1599
+
+-- with dynamic adding of neurons
+Starting load data...
+Data loaded...
+Middle layer num neurons: 8
+Epoch: 0: 0 / 1599
+Epoch: 1: 811 / 1599
+Epoch: 2: 1267 / 1599
+Middle layer num neurons: 9
+Epoch: 3: 1305 / 1599
+Epoch: 4: 1324 / 1599
+Epoch: 5: 1463 / 1599
+Middle layer num neurons: 10
+Epoch: 6: 1523 / 1599
+Epoch: 7: 1561 / 1599
+Epoch: 8: 1582 / 1599
+Middle layer num neurons: 11
+Epoch: 9: 1584 / 1599
+Epoch: 10: 1584 / 1599
+Epoch: 11: 1584 / 1599
+Middle layer num neurons: 12
+Epoch: 12: 1584 / 1599
+Epoch: 13: 1587 / 1599
+Epoch: 14: 1587 / 1599
+Middle layer num neurons: 13
+Epoch: 15: 1587 / 1599
+Epoch: 16: 1587 / 1599
+Epoch: 17: 1589 / 1599
+Middle layer num neurons: 14
+Epoch: 18: 1589 / 1599
+Epoch: 19: 1589 / 1599
+Epoch: 20: 1589 / 1599
+Middle layer num neurons: 15
+Epoch: 21: 1589 / 1599
+Epoch: 22: 1589 / 1599
+Epoch: 23: 1593 / 1599
+Middle layer num neurons: 16
+Epoch: 24: 1593 / 1599
+Epoch: 25: 1594 / 1599
+Epoch: 26: 1594 / 1599
+Middle layer num neurons: 17
+Epoch: 27: 1595 / 1599
+Epoch: 28: 1595 / 1599
+Epoch: 29: 1595 / 1599
+
+-------------------------------------------------------------------------------
+with 40% training data, 60% testing data
+
+-- nodynamic
+Starting load data...
+Data loaded...
+Epoch: 0: 0 / 2398
+Epoch: 1: 1168 / 2398
+Epoch: 2: 1615 / 2398
+Epoch: 3: 1777 / 2398
+Epoch: 4: 2125 / 2398
+Epoch: 5: 2196 / 2398
+Epoch: 6: 2211 / 2398
+Epoch: 7: 2259 / 2398
+Epoch: 8: 2263 / 2398
+Epoch: 9: 2265 / 2398
+Epoch: 10: 2302 / 2398
+Epoch: 11: 2309 / 2398
+Epoch: 12: 2324 / 2398
+Epoch: 13: 2331 / 2398
+Epoch: 14: 2333 / 2398
+Epoch: 15: 2333 / 2398
+Epoch: 16: 2333 / 2398
+Epoch: 17: 2333 / 2398
+Epoch: 18: 2333 / 2398
+Epoch: 19: 2340 / 2398
+Epoch: 20: 2341 / 2398
+Epoch: 21: 2348 / 2398
+Epoch: 22: 2349 / 2398
+Epoch: 23: 2358 / 2398
+Epoch: 24: 2358 / 2398
+Epoch: 25: 2358 / 2398
+Epoch: 26: 2358 / 2398
+Epoch: 27: 2358 / 2398
+Epoch: 28: 2361 / 2398
+Epoch: 29: 2361 / 2398
+
+-- dynamic
+Starting load data...
+Data loaded...
+Middle layer num neurons: 8
+Epoch: 0: 0 / 2398
+Epoch: 1: 0 / 2398
+Epoch: 2: 1764 / 2398
+Middle layer num neurons: 9
+Epoch: 3: 1947 / 2398
+Epoch: 4: 2170 / 2398
+Epoch: 5: 2173 / 2398
+Middle layer num neurons: 10
+Epoch: 6: 2192 / 2398
+Epoch: 7: 2206 / 2398
+Epoch: 8: 2210 / 2398
+Middle layer num neurons: 11
+Epoch: 9: 2221 / 2398
+Epoch: 10: 2304 / 2398
+Epoch: 11: 2311 / 2398
+Middle layer num neurons: 12
+Epoch: 12: 2354 / 2398
+Epoch: 13: 2358 / 2398
+Epoch: 14: 2377 / 2398
+Middle layer num neurons: 13
+Epoch: 15: 2386 / 2398
+Epoch: 16: 2386 / 2398
+Epoch: 17: 2390 / 2398
+Middle layer num neurons: 14
+Epoch: 18: 2390 / 2398
+Epoch: 19: 2392 / 2398
+Epoch: 20: 2393 / 2398
+Middle layer num neurons: 15
+Epoch: 21: 2396 / 2398
+Epoch: 22: 2396 / 2398
+Epoch: 23: 2396 / 2398
+Middle layer num neurons: 16
+Epoch: 24: 2396 / 2398
+Epoch: 25: 2396 / 2398
+Epoch: 26: 2396 / 2398
+Middle layer num neurons: 17
+Epoch: 27: 2396 / 2398
+Epoch: 28: 2396 / 2398
+Epoch: 29: 2396 / 2398
+-----------------------------------------------------------------------------
+90% test data, 10% training data
+
+-- nodynamic
+Starting load data...
+Data loaded...
+Epoch: 0: 0 / 3598
+Epoch: 1: 1030 / 3598
+Epoch: 2: 2239 / 3598
+Epoch: 3: 2342 / 3598
+Epoch: 4: 2788 / 3598
+Epoch: 5: 2789 / 3598
+Epoch: 6: 3049 / 3598
+Epoch: 7: 3057 / 3598
+Epoch: 8: 3070 / 3598
+Epoch: 9: 3234 / 3598
+Epoch: 10: 3264 / 3598
+Epoch: 11: 3272 / 3598
+Epoch: 12: 3431 / 3598
+Epoch: 13: 3439 / 3598
+Epoch: 14: 3452 / 3598
+Epoch: 15: 3466 / 3598
+Epoch: 16: 3515 / 3598
+Epoch: 17: 3516 / 3598
+Epoch: 18: 3536 / 3598
+Epoch: 19: 3537 / 3598
+Epoch: 20: 3537 / 3598
+Epoch: 21: 3538 / 3598
+Epoch: 22: 3544 / 3598
+Epoch: 23: 3544 / 3598
+Epoch: 24: 3544 / 3598
+Epoch: 25: 3544 / 3598
+Epoch: 26: 3544 / 3598
+Epoch: 27: 3548 / 3598
+Epoch: 28: 3555 / 3598
+Epoch: 29: 3555 / 3598
+
+-- dynamic
+
+------------------------------------------------------------------------------
+90% test data, STARTING OUT at 13 for nodynamic, building up from 3 to 13 for dynamic
+// askdfnlgjknsdfg: https://www.willamette.edu/~gorr/classes/cs449/growing.html already a thing, rip...
+
+-- nodynamic
+Starting load data...
+Data loaded...
+Epoch: 0: 411 / 3598
+Epoch: 1: 1181 / 3598
+Epoch: 2: 1926 / 3598
+Epoch: 3: 2449 / 3598
+Epoch: 4: 2717 / 3598
+Epoch: 5: 2865 / 3598
+Epoch: 6: 2949 / 3598
+Epoch: 7: 3055 / 3598
+Epoch: 8: 3122 / 3598
+Epoch: 9: 3136 / 3598
+Epoch: 10: 3240 / 3598
+Epoch: 11: 3271 / 3598
+Epoch: 12: 3304 / 3598
+Epoch: 13: 3331 / 3598
+Epoch: 14: 3368 / 3598
+Epoch: 15: 3379 / 3598
+Epoch: 16: 3383 / 3598
+Epoch: 17: 3410 / 3598
+Epoch: 18: 3432 / 3598
+Epoch: 19: 3433 / 3598
+Epoch: 20: 3438 / 3598
+Epoch: 21: 3442 / 3598
+Epoch: 22: 3447 / 3598
+Epoch: 23: 3451 / 3598
+Epoch: 24: 3455 / 3598
+Epoch: 25: 3458 / 3598
+Epoch: 26: 3464 / 3598
+Epoch: 27: 3465 / 3598
+Epoch: 28: 3466 / 3598
+Epoch: 29: 3476 / 3598
+
+// 0.966%
+
+-- dynamic
+Starting load data...
+Data loaded...
+Middle layer num neurons: 4
+Epoch: 0: 0 / 3598
+Epoch: 1: 0 / 3598
+Epoch: 2: 3472 / 3598
+Middle layer num neurons: 5
+Epoch: 3: 3487 / 3598
+Epoch: 4: 3488 / 3598
+Epoch: 5: 3488 / 3598
+Middle layer num neurons: 6
+Epoch: 6: 3489 / 3598
+Epoch: 7: 3490 / 3598
+Epoch: 8: 3490 / 3598
+Middle layer num neurons: 7
+Epoch: 9: 3490 / 3598
+Epoch: 10: 3552 / 3598
+Epoch: 11: 3552 / 3598
+Middle layer num neurons: 8  
+Epoch: 12: 3552 / 3598
+Epoch: 13: 3552 / 3598
+Epoch: 14: 3552 / 3598
+Middle layer num neurons: 9
+Epoch: 15: 3552 / 3598
+Epoch: 16: 3552 / 3598
+Epoch: 17: 3552 / 3598
+Middle layer num neurons: 10
+Epoch: 18: 3597 / 3598
+Epoch: 19: 3597 / 3598
+Epoch: 20: 3597 / 3598
+Middle layer num neurons: 11
+Epoch: 21: 3597 / 3598
+Epoch: 22: 3597 / 3598
+Epoch: 23: 3597 / 3598
+Middle layer num neurons: 12
+Epoch: 24: 3597 / 3598
+Epoch: 25: 3597 / 3598
+Epoch: 26: 3597 / 3598
+Middle layer num neurons: 13
+Epoch: 27: 3597 / 3598
+Epoch: 28: 3597 / 3598
+Epoch: 29: 3597 / 3598
+
+// 0.9997%
